@@ -16,7 +16,6 @@ function binarySearch(arr, x) {
 
 let arr = [1, 2, 5, 7, 8, 10, 90];
 let x = 10;
-n = arr.length;
 let result = binarySearch(arr, x);
 
 console.log(
